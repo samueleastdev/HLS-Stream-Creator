@@ -13,7 +13,7 @@ into HTTP Live Streaming in depth, so after reading the [IETF Draft](http://tool
 Usage
 ------
 
-Usage is incredibly simple
+Usage is incredibly simple 
 
 ```
 ./HLS-Stream-Creator.sh -[lf] [-c segmentcount] -i [inputfile] -s [segmentlength(seconds)] -o [outputdir] -b [bitrates]
